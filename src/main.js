@@ -25,5 +25,3 @@ async function handleClick() {
     return error.message;
   }
 }
-
-await handleClick();
